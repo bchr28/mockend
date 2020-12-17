@@ -1,10 +1,11 @@
 {
   "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
+    "doctor_name": "string",
+    "session_number": "int",
+    "is_scanned": "boolean",
+    "quee_number": "int",
+    "patient_name": "string",
+    "date": "date"
   },
   "Comment": {
     "body": "string",
