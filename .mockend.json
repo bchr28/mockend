@@ -1,5 +1,5 @@
 {
-  "Post": {
+  "Queed": {
     "doctor_name": "string",
     "session_number": "int",
     "is_scanned": "boolean",
